@@ -2,6 +2,36 @@
     "onboardingFirstTitle" : "Finans bankacılığı için en iyi uygulama ve bugün e-wallet",
     "onboardingSecondTitle" : "güvenli Ödemelerle Finansmanı Kolayca Yönetin",
     "onboardingThirdTitle" : "Şu anda AllPay ile harika bir deneyim yaşayın",
-     "nextButton" : "Next"
+     "nextButton" : "Next",
+     "transactions": "Transactions",
+     "accountNumber":"Hesap Numarası",
+     "bankCart":"Banka Kartları",
+     "crediCart":"Kredi Kartları",
+     "home":"Anasayfa",
+     "myAccunt":"Hesaplarım",
+     "myCart":"Hesaplarım",
+     "transferMoney":"Para Transferi",
+     "scanDocs":"Belge Tarama",
+     "demandDepositAccount":"Vadesiz TL Hesabı",
+     "letsYouIn": "Sizleri İçeriye Alalım",
+     "googleContinue":"Google ile Devam et",
+      "appleContinue":"Apple Ile Devam et",
+      "signWithPassword":"Şifre ile giriş",
+      "loginToYour":"Giriş yapmak",
+      "accout":"Hesap",
+      "email":"E -posta",
+      "password":"Şifre",
+      "error":"hata",
+      "signIn":"Kayıt olmak",
+      "orContinueWith":"Veya devam et",
+      "dontHaveAccount":"Hesabınız yok mu?",
+      "signUp":"Üye olmak",
+      "transferMoney":"Para transferi",
+      "search":"Search"
+
+
+
+
+
 
 }

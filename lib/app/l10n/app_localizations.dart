@@ -114,8 +114,146 @@ abstract class L10n {
   /// No description provided for @nextButton.
   ///
   /// In en, this message translates to:
-  /// **'Sonraki'**
+  /// **'next'**
   String get nextButton;
+
+  /// No description provided for @transactions.
+  ///
+  /// In en, this message translates to:
+  /// **'transactions'**
+  String get transactions;
+
+  /// No description provided for @accountNumber.
+  ///
+  /// In en, this message translates to:
+  /// **'account number'**
+  String get accountNumber;
+
+  /// No description provided for @bankCart.
+  ///
+  /// In en, this message translates to:
+  /// **'Bank Cart'**
+  String get bankCart;
+
+  /// No description provided for @crediCart.
+  ///
+  /// In en, this message translates to:
+  /// **'Kredi Carts'**
+  String get crediCart;
+
+  /// No description provided for @home.
+  ///
+  /// In en, this message translates to:
+  /// **'home page'**
+  String get home;
+
+  /// No description provided for @myAccunt.
+  ///
+  /// In en, this message translates to:
+  /// **'my accounts'**
+  String get myAccunt;
+
+  /// No description provided for @myCart.
+  ///
+  /// In en, this message translates to:
+  /// **'My accounts'**
+  String get myCart;
+
+  /// No description provided for @transferMoney.
+  ///
+  /// In en, this message translates to:
+  /// **'Transfer Money'**
+  String get transferMoney;
+
+  /// No description provided for @scanDocs.
+  ///
+  /// In en, this message translates to:
+  /// **'Document scanning'**
+  String get scanDocs;
+
+  /// No description provided for @demandDepositAccount.
+  ///
+  /// In en, this message translates to:
+  /// **'Demand Deposit TL Account'**
+  String get demandDepositAccount;
+
+  /// No description provided for @letsYouIn.
+  ///
+  /// In en, this message translates to:
+  /// **'You are Inside Let\'s take it'**
+  String get letsYouIn;
+
+  /// No description provided for @googleContinue.
+  ///
+  /// In en, this message translates to:
+  /// **'continue with google'**
+  String get googleContinue;
+
+  /// No description provided for @appleContinue.
+  ///
+  /// In en, this message translates to:
+  /// **'continue with apple'**
+  String get appleContinue;
+
+  /// No description provided for @signWithPassword.
+  ///
+  /// In en, this message translates to:
+  /// **'Sign in with password'**
+  String get signWithPassword;
+
+  /// No description provided for @loginToYour.
+  ///
+  /// In en, this message translates to:
+  /// **'Login to your'**
+  String get loginToYour;
+
+  /// No description provided for @accout.
+  ///
+  /// In en, this message translates to:
+  /// **'Account'**
+  String get accout;
+
+  /// No description provided for @email.
+  ///
+  /// In en, this message translates to:
+  /// **'Email'**
+  String get email;
+
+  /// No description provided for @password.
+  ///
+  /// In en, this message translates to:
+  /// **'Password'**
+  String get password;
+
+  /// No description provided for @error.
+  ///
+  /// In en, this message translates to:
+  /// **'error'**
+  String get error;
+
+  /// No description provided for @signIn.
+  ///
+  /// In en, this message translates to:
+  /// **'SignIn'**
+  String get signIn;
+
+  /// No description provided for @orContinueWith.
+  ///
+  /// In en, this message translates to:
+  /// **'Or Continue with'**
+  String get orContinueWith;
+
+  /// No description provided for @dontHaveAccount.
+  ///
+  /// In en, this message translates to:
+  /// **'Don\'t have an account?'**
+  String get dontHaveAccount;
+
+  /// No description provided for @signUp.
+  ///
+  /// In en, this message translates to:
+  /// **'SignUp'**
+  String get signUp;
 }
 
 class _L10nDelegate extends LocalizationsDelegate<L10n> {
